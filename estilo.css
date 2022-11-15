@@ -1,0 +1,161 @@
+body { 
+    margin: 0px;
+    background: rgb(252, 187, 214);
+    color: hwb(337 5% 7% / 0.966);
+
+}
+*{
+    font-family: 'Abril Fatface', cursive;
+    margin: 0px;
+}
+
+.header li{
+    height: inherit;
+}
+
+
+
+.header a{
+    color: black;
+    text-decoration: none;
+    height: inherit;
+    display: flex;
+    align-items: center;
+    padding: 0px 10px;
+ 
+}   
+.principal{
+    font-family: 'Abril Fatface', cursive;
+    margin: 20px;
+    padding: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background: white;
+    text-align: center;
+}
+    
+.aplicar{
+    height: 500px;
+    
+}    
+
+.principal img{
+    width: 300px;
+}
+.principal2{
+    
+text-align: center;
+font-size: 24px;
+}
+.chocho2{
+    text-align: left;
+    background-color: slategrey;
+} 
+.header{
+    height: 90px;
+    display: flex;
+    justify-content: space-between;
+    background-color: pink;
+    color: black;
+        height: 500px;
+    }
+
+    aplicar{
+        height: 500 px;
+        background-color: aqua;
+        display: flex;
+    }
+.aplicar-detalles{
+    width: 50%;
+    height: inherit;
+    display: flex;
+    flex-direction: row;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 30px;
+    text-align: center;
+
+
+}
+
+.aplicar-detalles img{
+    height: 50%;
+ }
+.menu{
+    height: inherit;
+}
+.logo img{ 
+    width: 100px;
+}
+ul{
+    display: flex;
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    height: inherit;
+
+}   
+h1{
+    font-size: 30px;
+}
+.bottonprincipal{
+    width: 250px;
+    height: 40px;
+    background-color: darkorchid;
+    border-radius: 24px;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    margin-top: 10px;
+
+} 
+
+
+
+
+
+.contacto{
+    height: 500 px;
+    background-color: aqua;
+    display: flex;
+}
+.contacto-detalles{
+width: 50%;
+height: inherit;
+display: flex;
+flex-direction: row;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 30px;
+text-align: center;
+
+
+}
+
+.contacto-detalles img{
+height: 50%;
+}
+
+.solucion{
+    height: 500 px;
+    background-color: aqua;
+    display: flex;
+}
+.solucion-detalles{
+width: 50%;
+height: inherit;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 30px;
+text-align: center;
+
+
+}
+
+.solucion-detalles img{
+height: 50%;
+}
